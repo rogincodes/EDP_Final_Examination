@@ -1,0 +1,52 @@
+body{
+    background-image: url(https://jooinn.com/images/photography-of-tray-coffee-cup-and-camera-on-table-top.jpg);
+    background-size: cover;
+}
+
+.title{
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    margin-bottom: 30px;
+    color: white;
+    margin-left: 115px;
+}
+
+.input{
+    font-size: 17px;
+}
+
+.card{
+    width: 478px;
+    border-radius: 25px;
+    padding: 30px;
+    border-style: outset;
+    border-width: 15px;
+    border-color: rgba(67, 170, 255, 0.767);
+}
+
+.placement{
+    margin-left: 730px;
+    margin-top: 50px;
+}
+
+.result{
+    float: left;
+    margin-top: 165px;
+    margin-left: 115px;
+    color: ghostwhite;
+    font-size: 38px;
+    font-family: Times, serif;
+    text-align: center;
+    height: 200px;
+}
+
+button{
+    font-size: 25px;
+    height: 65px;
+    width: 200px;
+    margin-left: 12px;
+    margin-bottom: 20px;
+    color: white;
+    background-color: rgb(42, 151, 155);
+}
